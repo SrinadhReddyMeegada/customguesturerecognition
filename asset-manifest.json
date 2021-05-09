@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/customguesturerecognition/static/css/main.d775afe8.chunk.css",
+    "main.js": "/customguesturerecognition/static/js/main.d9e67c5d.chunk.js",
+    "main.js.map": "/customguesturerecognition/static/js/main.d9e67c5d.chunk.js.map",
+    "runtime-main.js": "/customguesturerecognition/static/js/runtime-main.a3326c51.js",
+    "runtime-main.js.map": "/customguesturerecognition/static/js/runtime-main.a3326c51.js.map",
+    "static/js/2.f7a366e9.chunk.js": "/customguesturerecognition/static/js/2.f7a366e9.chunk.js",
+    "static/js/2.f7a366e9.chunk.js.map": "/customguesturerecognition/static/js/2.f7a366e9.chunk.js.map",
+    "index.html": "/customguesturerecognition/index.html",
+    "precache-manifest.90f7bc6688201613b618e37ca9b4d9f5.js": "/customguesturerecognition/precache-manifest.90f7bc6688201613b618e37ca9b4d9f5.js",
+    "service-worker.js": "/customguesturerecognition/service-worker.js",
+    "static/css/main.d775afe8.chunk.css.map": "/customguesturerecognition/static/css/main.d775afe8.chunk.css.map",
+    "static/js/2.f7a366e9.chunk.js.LICENSE.txt": "/customguesturerecognition/static/js/2.f7a366e9.chunk.js.LICENSE.txt",
+    "static/media/hello.svg": "/customguesturerecognition/static/media/hello.7bde1594.svg",
+    "static/media/something.svg": "/customguesturerecognition/static/media/something.7318c9ff.svg",
+    "static/media/thumbs_up.svg": "/customguesturerecognition/static/media/thumbs_up.03ee9e5f.svg",
+    "static/media/victory.svg": "/customguesturerecognition/static/media/victory.854a2217.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3326c51.js",
+    "static/js/2.f7a366e9.chunk.js",
+    "static/css/main.d775afe8.chunk.css",
+    "static/js/main.d9e67c5d.chunk.js"
+  ]
+}
