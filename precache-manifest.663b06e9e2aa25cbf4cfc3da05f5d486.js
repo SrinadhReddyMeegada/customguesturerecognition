@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3474948accd6757d8fcaabf06005e0d4",
+    "revision": "5c89bfcef3675e2c5af1d486caffeec9",
     "url": "/customguesturerecognition/index.html"
   },
   {
-    "revision": "e5036ab00a4cb7d98cc1",
+    "revision": "0dd6ee255d7fd6c5aa43",
     "url": "/customguesturerecognition/static/css/main.41aaeaba.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/customguesturerecognition/static/js/2.8cd57f17.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e5036ab00a4cb7d98cc1",
-    "url": "/customguesturerecognition/static/js/main.966f3cc2.chunk.js"
+    "revision": "0dd6ee255d7fd6c5aa43",
+    "url": "/customguesturerecognition/static/js/main.5006ee92.chunk.js"
   },
   {
     "revision": "9e8245b54ff9452efc43",
